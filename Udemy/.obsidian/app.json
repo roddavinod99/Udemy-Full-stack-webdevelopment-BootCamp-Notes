@@ -1,0 +1,18 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byCreatedTimeReverse",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Full Stack Web development/attachments",
+  "strictLineBreaks": true,
+  "communityPluginSortOrder": "download"
+}

@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "2e950161e60acc87",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dadcfc95dff9c4b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b325c34c6fae3eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ecf109665805e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61a6bb1189c50290",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "26c60cc0414007ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "19",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c65b5cc3956544fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4b293897fdfdc2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c25b130659318d0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20b96054f344a3e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md"
+              }
+            }
+          },
+          {
+            "id": "83e031994268620a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "320a40a3626b8c27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80148677a5360b5a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "964c2d420a3f6524",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.7998352050781,
+    "collapsed": true
+  },
+  "active": "0dadcfc95dff9c4b",
+  "lastOpenFiles": [
+    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
+    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/35. How to Debug in CSS Code.md",
+    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/34, External CSS.md",
+    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/33. Internal CSS.md",
+    "Full Stack Web development/Template/Embed website in the notes.md",
+    "Full Stack Web development/Template/embed pdf- images, embed pages..md",
+    "Full Stack Web development/Home/useful tings for obsidian.md",
+    "Full Stack Web development/Template/embed images..md",
+    "Full Stack Web development/Home/Course overview.md",
+    "Full Stack Web development/Front End Development/Notes/section 02 Introduction to HTML/19.HTML Links and Anchors tags.md"
+  ]
+}
