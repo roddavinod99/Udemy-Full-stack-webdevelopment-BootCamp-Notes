@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/35. How to Debug in CSS Code.md",
+            "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c65b5cc3956544fb",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/35. How to Debug in CSS Code.md",
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/35. How to Debug in CSS Code.md"
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md"
               }
             }
           },
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/35. How to Debug in CSS Code.md",
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +139,8 @@
   },
   "active": "0dadcfc95dff9c4b",
   "lastOpenFiles": [
-    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/35. How to Debug in CSS Code.md",
     "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
+    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/35. How to Debug in CSS Code.md",
     "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/34, External CSS.md",
     "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/33. Internal CSS.md",
     "Full Stack Web development/Template/Embed website in the notes.md",
