@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
+            "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/37. CSS Selectors.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/37. CSS Selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md"
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/37. CSS Selectors.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
+                "file": "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/37. CSS Selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +140,8 @@
   },
   "active": "0dadcfc95dff9c4b",
   "lastOpenFiles": [
-    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
     "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/37. CSS Selectors.md",
+    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
     "Full Stack Web development/Tags Tracker/HTML Tracker.md",
     "Full Stack Web development/Tags Tracker/CSS Tracker.md",
     "Full Stack Web development/Template/Insert Definition.md",
