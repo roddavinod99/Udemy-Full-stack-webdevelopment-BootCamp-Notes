@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/43.HTML Divs.md",
+            "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/43.HTML Divs.md",
+                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/43.HTML Divs.md"
+                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/43.HTML Divs.md",
+                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,15 +140,15 @@
   },
   "active": "0dadcfc95dff9c4b",
   "lastOpenFiles": [
+    "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
     "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/43.HTML Divs.md",
+    "Full Stack Web development/Front End Development/Notes/section 02 Introduction to HTML/19.HTML Links and Anchors tags.md",
     "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/41. Styled personal site, 42. favicons.md",
     "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/38.Clasess vs Ids.md",
     "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/37. CSS Selectors.md",
     "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
     "Full Stack Web development/Tags Tracker/HTML Tracker.md",
     "Full Stack Web development/Tags Tracker/CSS Tracker.md",
-    "Full Stack Web development/Template/Insert Definition.md",
-    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/35. How to Debug in CSS Code.md",
-    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/34, External CSS.md"
+    "Full Stack Web development/Template/Insert Definition.md"
   ]
 }
