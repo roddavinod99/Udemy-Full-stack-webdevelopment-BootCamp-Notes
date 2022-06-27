@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "2e950161e60acc87",
+    "id": "eb2bb48d252aec3b",
     "type": "split",
     "children": [
       {
-        "id": "0dadcfc95dff9c4b",
+        "id": "27bedf1438b01e99",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b325c34c6fae3eb0",
+    "id": "fa8d273e2155bff4",
     "type": "split",
     "children": [
       {
-        "id": "7ecf109665805e4d",
+        "id": "1b8ecaf09516ad7c",
         "type": "tabs",
         "children": [
           {
-            "id": "61a6bb1189c50290",
+            "id": "df88aac11962ec2a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "26c60cc0414007ff",
+            "id": "67def7a819252b59",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "19",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,15 +57,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "c65b5cc3956544fb",
+    "id": "abcb4ea74ce9073b",
     "type": "split",
     "children": [
       {
-        "id": "c4b293897fdfdc2b",
+        "id": "ca02f3fc9a4cf709",
         "type": "tabs",
         "children": [
           {
-            "id": "c25b130659318d0d",
+            "id": "82f485e257b7d6c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,28 +82,7 @@
             }
           },
           {
-            "id": "20b96054f344a3e2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md"
-              }
-            }
-          },
-          {
-            "id": "83e031994268620a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "320a40a3626b8c27",
+            "id": "0fe3df08b7181b7c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +94,28 @@
             }
           },
           {
-            "id": "80148677a5360b5a",
+            "id": "c8fcf1e56266ac07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59e89852934d2b91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md"
+              }
+            }
+          },
+          {
+            "id": "d1dbc238e342eb7d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -123,7 +123,7 @@
             }
           },
           {
-            "id": "964c2d420a3f6524",
+            "id": "f87ac9a52e6be260",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -135,20 +135,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.7998352050781,
+    "width": 300,
     "collapsed": true
   },
-  "active": "0dadcfc95dff9c4b",
+  "active": "27bedf1438b01e99",
   "lastOpenFiles": [
     "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
-    "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/43.HTML Divs.md",
-    "Full Stack Web development/Front End Development/Notes/section 02 Introduction to HTML/19.HTML Links and Anchors tags.md",
-    "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/41. Styled personal site, 42. favicons.md",
-    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/38.Clasess vs Ids.md",
-    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/37. CSS Selectors.md",
-    "Full Stack Web development/Front End Development/Notes/Section 4 Introduction to CSS/36. Anatomy of the CSS Syntax.md",
-    "Full Stack Web development/Tags Tracker/HTML Tracker.md",
-    "Full Stack Web development/Tags Tracker/CSS Tracker.md",
-    "Full Stack Web development/Template/Insert Definition.md"
+    "Notes/storing values with the assignment operator.md",
+    "Notes/Part 1/Untitled.md",
+    "Notes/take away.md",
+    "Notes/Template/Notes.md",
+    "Notes/00Home.md",
+    "Notes/Datatypes.md",
+    "Notes/Welcome to Javascript.md",
+    "Notes/Template/ADD Note.md",
+    "README.md"
   ]
 }

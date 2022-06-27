@@ -2,8 +2,8 @@
   "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 20,
-  "autoPushInterval": 30,
+  "autoSaveInterval": 10,
+  "autoPushInterval": 20,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
   "disablePush": false,
@@ -15,10 +15,10 @@
   "syncMethod": "merge",
   "gitPath": "",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "C:\\Users\\Vinod Kumar\\Desktop\\Udemy",
+  "basePath": "C:\\Users\\Vinod Kumar\\Desktop\\JavaScript\\JavaScript-Notes",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false
 }

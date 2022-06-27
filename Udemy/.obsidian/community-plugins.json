@@ -1,8 +1,11 @@
 [
-  "obsidian-excalidraw-plugin",
-  "calendar",
-  "dataview",
   "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-excalidraw-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-git"
+  "obsidian-outliner",
+  "obsidian-indent-lines",
+  "note-refactor-obsidian",
+  "obsidian-tracker",
+  "calendar",
+  "dataview"
 ]
