@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
+            "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/45. CSS Display property.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
+                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/45. CSS Display property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
+                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/45. CSS Display property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md"
+                "file": "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/45. CSS Display property.md"
               }
             }
           },
@@ -140,6 +140,7 @@
   },
   "active": "27bedf1438b01e99",
   "lastOpenFiles": [
+    "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/45. CSS Display property.md",
     "Full Stack Web development/Front End Development/Notes/Section 5 Intermediate CSS/44.the Box model of website styling.md",
     "Notes/storing values with the assignment operator.md",
     "Notes/Part 1/Untitled.md",
@@ -148,7 +149,6 @@
     "Notes/00Home.md",
     "Notes/Datatypes.md",
     "Notes/Welcome to Javascript.md",
-    "Notes/Template/ADD Note.md",
-    "README.md"
+    "Notes/Template/ADD Note.md"
   ]
 }
